@@ -47,7 +47,8 @@ When the user defines the list of images a database have to be created. When the
 
 ![alt text](https://github.com/apollo994/NCtools/blob/master/pathogenicity_track_example.png)
 
+**Some test images to play with can be found [here](https://github.com/apollo994/CMP_images/tree/master/test_data/img_jpg)**
+
 ## To keep in mind (not mandatory at the beginning)
 - Number and name of the metrics could vary depending on the need
 
-**Some test images to play with can be found [here](https://github.com/apollo994/CMP_images/tree/master/test_data/img_jpg)**
