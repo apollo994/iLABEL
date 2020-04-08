@@ -40,10 +40,12 @@ Those labels are:
 | im3     | 0.7     | 0.6                       |...|0.5|
 
 
-
 ### In the backhand
-When the user defines the list of images a database have to be created. When the user inputs his values, they should be added to the images on the db.
+When the user defines the list of images a database have to be created. When the user submit his values, they should be added to the images on the db.
 
+### An idea for the interface
+
+![alt text](https://github.com/apollo994/iLABEL/blob/master/mockup.pdf)
 
 ## To keep in mind (not mandatory at the beginning)
 - Number and name of the metrics could vary depending on the need
