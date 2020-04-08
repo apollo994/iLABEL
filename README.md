@@ -45,7 +45,7 @@ When the user defines the list of images a database have to be created. When the
 
 ### An idea for the interface
 
-![alt text](https://github.com/apollo994/NCtools/blob/master/pathogenicity_track_example.png)
+![alt text](https://github.com/apollo994/iLABEL/blob/master/gui.png)
 
 **Some test images to play with can be found [here](https://github.com/apollo994/CMP_images/tree/master/test_data/img_jpg)**
 
