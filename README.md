@@ -31,7 +31,7 @@ Those labels are:
 - go to next image and repeat
 - save and eventually continue from this step
 
-### We want the user to inspect images and return
+### And we get back...
 
 | **im_id**     | overall          | light                      |...|focus|
 | ------------- |:-------------:| ---------------------------:|---|---------|
@@ -41,10 +41,8 @@ Those labels are:
 
 
 
-### In the backhand...
-When the user defines the list of images a database have to be created.
-When the user defines the labels, they should be added as new column in the db.
-When the user inputs his values, they should be added to the images on the db.
+### In the backhand
+When the user defines the list of images a database have to be created. When the user inputs his values, they should be added to the images on the db.
 
 
 ## To keep in mind (not mandatory at the beginning)
