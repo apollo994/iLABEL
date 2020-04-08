@@ -26,7 +26,6 @@ Those labels are:
 
 ### Practically, the user will be asked to:
 - load a set of images (specify the path)
-- specify the labels he/she wants to add
 - visualise one image at time
 - input the value and submit
 - go to next image and repeat
